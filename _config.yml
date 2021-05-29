@@ -11,4 +11,4 @@ github_username:  weavermarquez # DO NOT include the @ character, or else the bu
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 # aesthetics
-theme: minima
+theme: jekyll-theme-merlot
